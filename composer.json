@@ -1,22 +1,6 @@
 {
     "name": "amq/components",
-    "autoload": {
-        "psr-4": {
-            "Amq\\Exception\\": "src/exception/src"
-        }
-    },
     "replace": {
         "amq/exception": "*"
-    },
-    "authors": [
-        {
-            "name": "xxx",
-            "email": "sztdx@xxx.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "prefer-stable": true,
-    "require": {
-        "php": ">=8.2"
     }
 }
